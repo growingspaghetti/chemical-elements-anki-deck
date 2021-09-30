@@ -9,7 +9,7 @@ It's using the English posters provided by The Ministry of Education, Culture, S
    - http://www.pcost.or.jp/_src/sc1617/englishversion_download.pdf
 
 In addition to 118 elements, this deck contains the following notes.
-
+```
  The lanthanoid series
  The actinoid series
  The Earth's crust
@@ -31,7 +31,7 @@ In addition to 118 elements, this deck contains the following notes.
  Stellar nucleosynthesis
  Formation of atoms
  The neutron stars
-
+```
 https://ankiweb.net/shared/info/1536392289
 
 ![thumbnail.png](./thumbnail.png)
